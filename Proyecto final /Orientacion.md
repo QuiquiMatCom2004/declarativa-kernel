@@ -1,1 +1,0 @@
-El proyecto de programacion declarativa es presentar una idea de proyecto e implementarla tal que se use la programacion declarativa como base. Se recomiendad prolog o haskell pero el lenguaje esta abierto.
