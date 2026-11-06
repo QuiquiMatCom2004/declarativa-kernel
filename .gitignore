@@ -1,0 +1,10 @@
+# Bibliografía (no se sube al repositorio)
+bibliografia/
+
+# Archivos temporales de depuración
+**/debug_test.pl
+
+# Entornos y caché
+__pycache__/
+*.pyc
+.env
