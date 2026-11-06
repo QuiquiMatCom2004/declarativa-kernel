@@ -1,2 +1,0 @@
-persona(pedro).
-persona(juan).

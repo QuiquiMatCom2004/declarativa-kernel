@@ -1,5 +1,9 @@
-# Bibliografía (no se sube al repositorio)
+# Bibliografía y materiales suplementarios (no se suben al repositorio)
 bibliografia/
+*.pdf
+*.zip
+*.pptx
+Codigos/
 
 # Archivos temporales de depuración
 **/debug_test.pl
